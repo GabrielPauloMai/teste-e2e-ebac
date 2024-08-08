@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "productName": "Aether Gym Pant",
+        "productSize": "33",
+        "productColor": "Green",
+        "productQuantity": 5
+    },
+    {
+      "productName": "Orestes Yoga Pant",
+        "productSize": "36",
+        "productColor": "Blue",
+        "productQuantity": 2
+    },
+    {
+      "productName": "Aether Gym Pant",
+        "productSize": "33",
+        "productColor": "Brown",
+        "productQuantity": 1
+    },
+    {
+      "productName": "Orestes Yoga Pant",
+        "productSize": "34",
+        "productColor": "Green",
+        "productQuantity": 5
+    }
+  ]
+}
