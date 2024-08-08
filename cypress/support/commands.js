@@ -1,6 +1,6 @@
-Cypress.Commands.add('login', (usuario, senha) => {
-    cy.get('#username').type(usuario)
-    cy.get('#password').type(senha, {log: false})
+Cypress.Commands.add('login', (username, password) => {
+    cy.get('#username').type(username)
+    cy.get('#password').type(password, {log: false})
     cy.get('.woocommerce-form > .button').click()
-});
-
+  });
+  
