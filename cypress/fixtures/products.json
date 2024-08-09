@@ -1,10 +1,10 @@
 {
   "products": [
     {
-      "productName": "Aether Gym Pant",
-        "productSize": "33",
-        "productColor": "Green",
-        "productQuantity": 5
+      "productName": "Aero Daily Fitness Tee",
+        "productSize": "M",
+        "productColor": "Yellow",
+        "productQuantity": 2
     },
     {
       "productName": "Orestes Yoga Pant",
@@ -22,7 +22,7 @@
       "productName": "Orestes Yoga Pant",
         "productSize": "34",
         "productColor": "Green",
-        "productQuantity": 5
+        "productQuantity": 4
     }
   ]
 }
