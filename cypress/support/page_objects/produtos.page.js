@@ -127,7 +127,7 @@ class ProdutosPage {
      *@param {checkoutData} checkoutData
      * @returns {void}
      */
-    verifyCheckoutData(checkoutData){
+    verifyCheckoutData(checkoutData) {
         cy.get('address').invoke('html').then((text) => {
             let infosClient = text.split('<br>')
 
