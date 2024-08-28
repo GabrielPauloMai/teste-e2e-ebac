@@ -166,7 +166,7 @@ class ProdutosPage {
             company: fakerBr.company.companyName(),
             country: 'Brasil',
             state: fakerBr.address.state(),
-            zip: fakerBr.address.zipCode(),
+            zip: fakerBr.address.zipCode('#####-###'),
             address: fakerBr.address.streetName(),
             complement: fakerBr.address.secondaryAddress(),
             city: fakerBr.address.city(),
